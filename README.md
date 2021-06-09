@@ -1,1 +1,1 @@
-# skousk
+# tady se skouším věci z programování
